@@ -1,4 +1,4 @@
-# How to deploy a python code using lamabda function or flask
+# How to deploy a python code using AWS lambda function or flask
 To deploy python ML code for backend and to make a POST API call, you can use lambda fuction or flask
 
 # Reference: 
