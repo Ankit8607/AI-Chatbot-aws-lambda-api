@@ -1,0 +1,7 @@
+requests
+flask-lambda-python36
+llama_index
+flask-cors
+langchain
+flask
+python-dotenv
