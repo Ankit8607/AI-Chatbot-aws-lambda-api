@@ -9,3 +9,4 @@ Youtube video: https://youtu.be/bw1gfnLSmd0
 take care of api_key which i have set on the environment of lambda
 go to configuration of lambda function then in environment variables set key, pair: OPENAI_API_KEY api key
 also check timeout limit and memory assigned to lambda function 
+create virtual environment for python dependencies 
